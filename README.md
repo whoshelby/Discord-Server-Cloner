@@ -10,8 +10,6 @@
 ## How To Use?
 ```js
 Just Run the Cloner.exe file
-or
-Run main.py
 ```
 
 ## Deployed
